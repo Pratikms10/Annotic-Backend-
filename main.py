@@ -7,7 +7,7 @@ BASE_URL = "https://backend.annotic.in"
 TASK_ID = 105008
 ANNOTATION_ID = 183370
 
-TOKEN = "JWT eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzgyODg2NTM3LCJqdGkiOiJjMjhmZjM3ODBiY2U0YzdlOTA2ZmVmN2EyMmY1ZjEwZiIsInVzZXJfaWQiOjI2MDh9._Niwm9MswKy90lt3PD8h-KYCt8VQyJnpoIDSVKYBhrc"
+TOKEN = "JWT eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwjoxNzgyODg2NTM3LCJqdGkiOiJjMjhmZjM3ODBiY2U0YzdlOTA2ZmVmN2EyMmY1ZjEwZiIsInVzZXJfaWQiOjI2MDh9._Niwm9MswKy90lt3PD8h-KYCt8VQyJnpoIDSVKYBhrc"
 
 INPUT_JSON = r"D:\pratik\pratikms10\yt\durga soft\audio__3__annotation.json"
 # ──────────────────────────────────────────────────────────────────────────────
